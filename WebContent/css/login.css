@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: #f4fbfb;
+	height: 600px;
+}
+
+#body {
+	height: 486px;
+	width: 100%;
+}
+
+#title{
+	margin-left: 20px;
+	font-style: inherit;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+#content{
+	height: 460px;
+	width: 70%;
+	margin-top: 10px;
+	margin-left:15%;
+	margin-bottom: 10px;
+	background-color: white;
+	border-radius:20px;
+	
+}
+
+#form{
+	margin-top: 10%;
+	height:50%;
+	width:55%;
+	float: left;
+}
+
+img{
+	float: left;
+	width: 40%;
+}
+
+#errorMsg{
+	color: red;
+}
+
+

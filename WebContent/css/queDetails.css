@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+body {
+	background-color: white;
+	height:auto;
+	overflow:"hidden";
+}
+
+#content {
+	height: 470px;
+	margin-bottom: 3px;
+	margin-top: 30px;
+	width: 90%;
+	margin-left: 5%;
+}
+
+#question{
+	width: 40%;
+	height:100%;
+	float: left;
+	margin-right: 5%;
+}
+
+#testcase{
+	width: 55%;
+	height: 100%;
+	float: left;
+}

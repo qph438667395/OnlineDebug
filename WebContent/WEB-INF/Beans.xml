@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="jsonObject" class="net.sf.json.JSONObject">
+	</bean>
+
+	<bean id="pageBean" class="com.spring.model.PageBean">
+		<constructor-arg name="page" value="1"></constructor-arg>
+		<constructor-arg name="pageSize" value="10"></constructor-arg>
+	</bean>
+	
+	<bean id="testResultList" class="com.spring.model.TestResultList">
+	</bean>
+	
+	
+
+</beans>

@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+body {
+	height:900px;
+	width: 100%;
+	background-color: white;
+}
+
+#content {
+	margin-top: 10px;
+	background-color: white;
+	height:780px;
+	width: 60%;
+	margin-left: 20%;
+}
+
+.title{
+	font-weight: bold;
+	text-align: right;
+	text-decoration: none;
+}
+
+
+
+.childTitle{
+	font-weight: bold;
+	text-decoration: none;
+}
+

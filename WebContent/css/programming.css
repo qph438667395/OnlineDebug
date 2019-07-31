@@ -1,0 +1,64 @@
+@CHARSET "UTF-8";
+body {
+	background-color: white;
+	height:1100px;
+}
+
+.CodeMirror {
+	height: 360px;
+	width: 100%;
+	font-size:15px
+}
+
+#question-content {
+	height: 100px;
+	margin-bottom: 10px;
+	border: 1px inset #e2e1e6;
+	border-radius:3px;
+	background-color: white;
+}
+
+#content {
+	margin-top: 10px;
+	height:960px;
+	width: 80%;
+	margin-left: 10%;
+}
+
+.select{
+	width:400px;
+	margin-left: 10px;
+}
+
+#coding {
+	height: 360px;
+}
+
+#input{
+	border-radius:3px;
+	border: 1px inset #e2e1e6;
+	height: 130px;
+	width: 100%;
+}
+
+#btn{
+	margin-top: 10px;
+}
+
+
+#result {
+	margin-top: 10px;
+	height: 200px;
+}
+
+#output{
+	background-color: white;
+	height: 200px;
+}
+
+
+
+
+
+
+

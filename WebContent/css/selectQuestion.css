@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+body {
+	background-color: white;
+	height:auto;
+	overflow:"hidden";
+}
+
+#content {
+	height: 486px;
+	margin-bottom: 3px;
+	margin-top: 10px;
+	width: 70%;
+	margin-left: 15%;
+}
+
+#img{
+	width: 30px;
+	height: 30px;
+	position:absolute;
+	top:80px;
+	left:90%;
+}
+
+
+
+
+
